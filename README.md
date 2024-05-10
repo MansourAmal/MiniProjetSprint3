@@ -1,4 +1,13 @@
-"# MiniProjetSprint1" 
-"# miniprojetSprint2" 
-"# miniprojetSprint2" 
-"# MiniProjetSprint3" 
+![Capture d'écran 2024-05-10 122349](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/61e95a9f-6b9a-4179-8ec2-de4b913b3de8)
+ ![Capture d'écran 2024-05-10 122439](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/198a28a4-d2b4-40a4-9159-52a5b424919f)
+![Capture d'écran 2024-05-10 122804](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/75d1651a-e781-4c1c-a998-f61c78cfda11)
+![Capture d'écran 2024-05-10 124856](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/980fbcbf-9135-45de-95ae-5ea8356c82e5)
+![Capture d'écran 2024-05-10 125013](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/cf7f737c-b235-490c-8640-b315803595af)
+![Capture d'écran 2024-05-10 125737](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/b7eef4c3-8e01-49c0-a1cf-75d9ffbaa3d1)
+![Capture d'écran 2024-05-10 203722](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/ea7dc6ed-a459-4325-95ab-5c13b919b920)
+![Capture d'écran 2024-05-10 210051](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/86f7e6af-da9a-4680-8a37-4ad8e19d3e89)
+![Capture d'écran 2024-05-10 211621](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/70650d8c-412b-4d32-9396-c29c2f547d44)
+![Capture d'écran 2024-05-10 213517](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/a90f7829-39ce-403b-9947-8ff6b3449202)
+![Capture d'écran 2024-05-10 220627](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/506f5607-be15-49a6-8cd8-c4046945adc5)
+![Capture d'écran 2024-05-10 222613](https://github.com/MansourAmal/MiniProjetSprint3/assets/122967154/3bacc755-8653-4b25-a7d9-af735c6ac3d4)
+
